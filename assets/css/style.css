@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+h1{
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+
+.w-49{
+    width:49%
+   
+}
+
+.py{
+    padding-top: 2rem;
+    padding-bottom: 2rem ;
+}
+.vertical-align{
+vertical-align: middle;
+
+} 
+.inline-block{
+    display: inline-block;
+}
+.bg-dark{
+    background-color: black;
+}
+
+.text-white{
+    color: white
+ }
+ .text-center{
+    text-align: center;
+ }
+
+.bg-betty{
+    background-image: url("../imgs/betty6.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 500px;
+}
+.bg-cafe{ 
+    background-color: rgba(165, 42, 42, 0.836);
+}
+.w-33{ 
+    width: 33%;
+}
+
+.w-50{
+    width: 50px;
+}
